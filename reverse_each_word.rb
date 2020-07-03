@@ -13,5 +13,5 @@ def reverse_each_word(string)
     element.reverse
     binding.pry
   end
-  
+
 end
